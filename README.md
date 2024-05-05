@@ -36,8 +36,8 @@ There are 2 ways to use the procrastinate application. The simple and not so sim
 The first way: 
 
 https://procrastinate-frontend.vercel.app/<br/>
-Username: ale123 <br/>
-Password: sunny
+Username: *refer to report* <br/>
+Password: *refer to report*
 
 That’s it. Our application is live on the web so it’s available to use anytime, anywhere (Or until our team runs out of money to host them)
 
