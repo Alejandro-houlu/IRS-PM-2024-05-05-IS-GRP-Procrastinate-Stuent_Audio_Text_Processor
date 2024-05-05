@@ -95,8 +95,8 @@ Requirement:
 	Maven
 	Java SDK / JDK
 
-Set 3 environment vars
-*refer to report*
+Set 3 environment vars <br/>
+*refer to report* <br/>
 cd into procrastinate-backend <br/>
 Run `mvn spring-boot:run`
 
@@ -105,7 +105,7 @@ Requirement: <br/>
 	Python 3.10 and above <br/> 
 	`pip install -r requirements.txt` <br/>
 Set 3 environment vars <br/>
-*refer to report*
+*refer to report* <br/>
 cd into procrastinate_data_processor <br/>
 Run `python manage.py runserver`
 
