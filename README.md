@@ -96,9 +96,7 @@ Requirement:
 	Java SDK / JDK
 
 Set 3 environment vars
-`SPRING_DATASOURCE_PASSWORD="sunnydays"`<br/>
-`SECRET_KEY="cZz/NH0k4SBxT28lmYg6sleWIhDIQzPew4DwNzW3dso"` <br/>
-`ACCESS_KEY="DO00HDHNTKHM9TFQFW6F"` <br/>
+*refer to report*
 cd into procrastinate-backend <br/>
 Run `mvn spring-boot:run`
 
@@ -107,9 +105,7 @@ Requirement: <br/>
 	Python 3.10 and above <br/> 
 	`pip install -r requirements.txt` <br/>
 Set 3 environment vars <br/>
-`db_password="sunnydays"` <br/>
-`SECRET_KEY="cZz/NH0k4SBxT28lmYg6sleWIhDIQzPew4DwNzW3dso"` <br/>
-`ACCESS_KEY="DO00HDHNTKHM9TFQFW6F"` <br/>
+*refer to report*
 cd into procrastinate_data_processor <br/>
 Run `python manage.py runserver`
 
